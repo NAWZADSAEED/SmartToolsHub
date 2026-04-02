@@ -1,0 +1,8 @@
+{
+  "name": "SmartTools Hub",
+  "description": "A powerful suite of online utilities including PDF to Word conversion and AI-powered background removal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
